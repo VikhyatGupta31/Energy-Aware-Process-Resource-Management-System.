@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+scheduler
+scheduler.exe
+*.obj
+*.pdb
+*.ilk
